@@ -14,3 +14,9 @@ The following results were obtained on comparision with a standard PID control.
    ![Screenshot 2024-05-26 202340](https://github.com/shriram272/Prescribed_Performance_Control/assets/99411053/b0abf946-e2cc-497e-bbf5-5f1811018f9f)
    ![Screenshot 2024-05-29 083432](https://github.com/shriram272/Prescribed_Performance_Control/assets/99411053/db9554e9-217f-4150-86e6-300a086f3e1c)
 
+
+5.After successful simulation, the controller was setup on hardware using a 12V,300 rpm DC motor and Cyctron Motor Controller. The Arduino was used as the lower level controller while Jetson Nano was used as high level controller.
+
+
+![WhatsApp Image 2024-07-27 at 14 52 01](https://github.com/user-attachments/assets/120e7cac-0300-4efa-a658-1e390c9678cb)
+![WhatsApp Image 2024-07-27 at 14 52 01(1)](https://github.com/user-attachments/assets/2e4eed26-af98-4214-8ab6-ba2a2da9e4e8)
